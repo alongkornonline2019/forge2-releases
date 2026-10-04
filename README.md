@@ -1,6 +1,6 @@
 # Forge Engine
 
-Installers for Forge Engine. Download the newest version from **[Releases](https://github.com/karn-legendstar/forge2-releases/releases/latest)**. Once installed, Forge updates itself.
+Installers for Forge Engine. Download the newest version from **[Releases](https://github.com/alongkornonline2019/forge2-releases/releases/latest)**. Once installed, Forge updates itself.
 
 ## Windows
 1. Download `Forge-Engine-Setup-X.Y.Z.exe` and run it.
